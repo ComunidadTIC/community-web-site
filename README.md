@@ -1,8 +1,14 @@
-# Sitio Web de Comunidad TIC
-
 ## Desarrolladores
 
-En el directorio del proyecto, puede ejecutar:
+### Instalación
+
+Desde la terminal vamos a comenzar clonando el proyecto e instalando las dependencias:
+
+```bash
+git clone https://github.com/ComunidadTIC/community-web-site.git
+cd community-web-site
+npm install
+```
 
 ### `npm start`
 
